@@ -1,5 +1,5 @@
 ---
-title: Welcome to Quartz
+title: My Digital Garden
 ---
 A place to track ideas for apps & services or ideas. Document my learnings, troubles and successes.
 
